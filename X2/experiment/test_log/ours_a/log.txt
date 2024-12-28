@@ -1,0 +1,33 @@
+
+Evaluation:
+[Set5 x2]	PSNR: 37.885 (Best: 37.885 @epoch 1)
+Forward: 1.90s
+
+Saving...
+Total: 2.53s
+
+
+Evaluation:
+[Set14 x2]	PSNR: 33.334 (Best: 33.334 @epoch 1)
+Forward: 2.82s
+
+Saving...
+Total: 4.18s
+
+
+Evaluation:
+[BSD100 x2]	PSNR: 32.093 (Best: 32.093 @epoch 1)
+Forward: 6.54s
+
+Saving...
+Total: 6.76s
+
+
+Evaluation:
+[Urban100 x2]	PSNR: 31.782 (Best: 31.782 @epoch 1)
+Forward: 11.38s
+
+Saving...
+Total: 24.40s
+
+
